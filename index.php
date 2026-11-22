@@ -10,6 +10,7 @@
     <h1>
         <?php
             echo "Hello World!";
+            echo "version : v0.2"
         ?>
     </h1>
 
