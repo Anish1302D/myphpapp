@@ -85,7 +85,7 @@
 
     <?php
         $name = "Anish Mogam";
-        $version = "v0.2";
+        $version = "v0.1";
     ?>
 
     <div class="card">
